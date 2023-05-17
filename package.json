@@ -9,10 +9,25 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^18.0.1",
+    "@shopify/react-native-skia": "0.1.172",
+    "@wuba/react-native-echarts": "^1.1.1",
+    "echarts": "^5.4.2",
     "expo": "~48.0.15",
+    "expo-screen-orientation": "^5.1.1",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.7"
+    "react-dom": "18.2.0",
+    "react-native": "0.71.7",
+    "react-native-echarts-wrapper": "^2.0.0",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-orientation": "^3.1.3",
+    "react-native-svg": "13.4.0",
+    "react-native-svg-charts": "^5.4.0",
+    "react-native-web": "~0.18.10",
+    "react-native-webview": "11.26.0",
+    "victory-native": "^36.6.10",
+    "wrn-echarts": "^0.1.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
